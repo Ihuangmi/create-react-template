@@ -1,11 +1,22 @@
 {
   "name": "crt-template",
-  "version": "1.0.0",
-  "description": "",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "version": "1.2.0",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template"
+  ],
+  "description": "The base template for Create React App.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ihuangmi/create-react-template.git",
+    "directory": "packages/crt-template"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "license": "MIT",
+  "engines": {
+    "node": ">=14"
+  },
+  "files": [
+    "template"
+  ]
 }
