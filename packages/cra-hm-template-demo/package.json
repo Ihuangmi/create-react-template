@@ -1,6 +1,6 @@
 {
   "name": "cra-hm-template-demo",
-  "version": "1.2.0",
+  "version": "1.0.0",
   "keywords": [
     "react",
     "create-react-app",
@@ -10,7 +10,7 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/Ihuangmi/create-react-template.git",
-    "directory": "packages/crt-template"
+    "directory": "packages/cra-hm-template-demo"
   },
   "license": "MIT",
   "engines": {
